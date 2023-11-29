@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="envia.qml">src/envia.qml</file>
+        <file alias="ViewEnvia.qml">src/view/ViewEnvia.qml</file>
+        <file alias="ViewArquivo.qml">src/view/ViewArquivo.qml</file>
+        <file alias="ViewComando.qml">src/view/ViewComando.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>

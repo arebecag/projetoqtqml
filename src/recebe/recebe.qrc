@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="recebe.qml">src/recebe.qml</file>
+        <file alias="ViewRecebe.qml">src/view/ViewRecebe.qml</file>
+        <file alias="ViewReceber.qml">src/view/ViewReceber.qml</file>
+    </qresource>
+</RCC>
